@@ -44,7 +44,7 @@ public class Custom_button extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_custom_button);
-
+        
         button_custom.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -68,6 +68,8 @@ public class Custom_button extends AppCompatActivity {
                 seven.setText(txt7);
                 eight.setText(txt8);
                 nine.setText(txt9);
+                
+                 findViewByIds();
 
             }
         });
