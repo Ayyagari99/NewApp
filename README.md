@@ -1,5 +1,5 @@
 # To be done:
-Move all buttons on custom_button activity
+Move all buttons on custom_button activity ()to be)
 New activity to customize all the buttons - &#9745;
 
 # Completed:
